@@ -1,0 +1,13 @@
+.FlipperApp {
+    width: 100%;
+    display: flex;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.FlipperApp-title {
+    margin-top: 50px;
+    color: white;
+    font-size: 18px;
+}
