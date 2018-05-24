@@ -3,7 +3,8 @@
 
 body {
     margin: 0px;
-    background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+    /* background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12); */
+    background-image: linear-gradient(to right top, #ba0707, #cf4e00, #df7d00, #e8aa00, #ebd612);
     min-height: 100vh;
     font-family: 'Open Sans', sans-serif;
 }
